@@ -1,0 +1,8 @@
+Groovy enabled snow starter project:
+
+http://groovy.codehaus.org/ 
+https://github.com/britesnow
+
+Juts a proof of concept that we can write snow WebHandlers / injectons in groovy.
+
+Now we can mix and match groovy and java classes on the server side!
